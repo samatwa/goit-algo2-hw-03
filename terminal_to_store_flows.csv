@@ -1,0 +1,15 @@
+Terminal,Store,Actual Flow (units)
+Terminal 1,Store 1,15.0
+Terminal 1,Store 2,10.0
+Terminal 1,Store 4,10.0
+Terminal 1,Store 5,6.67
+Terminal 1,Store 6,3.33
+Terminal 1,Store 7,10.0
+Terminal 1,Store 8,5.0
+Terminal 2,Store 10,20.0
+Terminal 2,Store 11,10.0
+Terminal 2,Store 4,5.0
+Terminal 2,Store 5,3.33
+Terminal 2,Store 6,1.67
+Terminal 2,Store 7,10.0
+Terminal 2,Store 8,5.0
